@@ -27,7 +27,7 @@ Date of finished: 20.03.2025
 ## Ход работы
 ### Часть 1
 1. В конфигурационном режиме измените название маршру- тизатора на CMERouter.
-   ![image](https://github.com/user-attachments/assets/e87fecf9-3aad-49f0-92a9-a58a26ec59d3)
+   ![image](https://github.com/user-attachments/assets/e87fecf9-3aad-49f0-92a9-a58a26ec59d3)    
    
    ![image](https://github.com/user-attachments/assets/e2ca0e11-ac31-4e50-ae58-692c117139b1)     
 3. Отключите синтаксис ввода слов от DNS серверов.    
@@ -49,9 +49,12 @@ Date of finished: 20.03.2025
     ![image](https://github.com/user-attachments/assets/5fec7777-a5c2-4494-a36a-592982d3dee1)    
 
 16. Проверить звонки между телефонами и проверить остальные сервисы (перевод звонков, конференц-связь, перехват звонка).    
-    ![image](https://github.com/user-attachments/assets/04b07c89-ea17-4e33-99f9-74ef9d463039)    
-    ![image](https://github.com/user-attachments/assets/c892976d-52ab-4652-abde-8787c7b818bd)    
-    ![image](https://github.com/user-attachments/assets/778c64b6-ec93-40f2-bc5d-be53eebffdee)    
+    ![image](https://github.com/user-attachments/assets/04b07c89-ea17-4e33-99f9-74ef9d463039)
+    
+    ![image](https://github.com/user-attachments/assets/c892976d-52ab-4652-abde-8787c7b818bd)
+    
+    ![image](https://github.com/user-attachments/assets/778c64b6-ec93-40f2-bc5d-be53eebffdee)
+    
     ![image](https://github.com/user-attachments/assets/b9345a81-27a6-4644-be19-b550aa6ea6b9)    
 
 ### Часть 2    
