@@ -41,7 +41,7 @@ Date of finished: 20.03.2025
 
 8. Настроить DHCP сервера для передачи голоса и данных на маршрутизаторе Cisco 2811.
    
-   ![image](https://github.com/user-attachments/assets/d6e1afe2-c185-4e9c-9a15-f309ddec04f0)     
+   ![image](https://github.com/user-attachments/assets/d6e1afe2-c185-4e9c-9a15-f309ddec04f0)    
 
 10. Настроить услуги телефонии Cisco CallManager Express на маршрутизаторе 2811.
     
@@ -72,23 +72,23 @@ Date of finished: 20.03.2025
    ![image](https://github.com/user-attachments/assets/3c3b3511-795a-4f1c-a700-6ec9ee50d1da)    
 
 
-3. Задайте маршрут по умолчанию командой ip default-gateway.
+2. Задайте маршрут по умолчанию командой ip default-gateway.
    
    ![image](https://github.com/user-attachments/assets/00116613-e1a6-4ea1-a824-b9273c683801)    
 
-5. Настройте порт как канал типа trunk.
+3. Настройте порт как канал типа trunk.
    
    ![image](https://github.com/user-attachments/assets/277136d9-520a-41d1-aa80-434dda367d51)     
 
-7. Настроить DHCP сервера для передачи голоса и данных на маршрутизаторе Cisco 2811.
+4. Настроить DHCP сервера для передачи голоса и данных на маршрутизаторе Cisco 2811.
    
    ![image](https://github.com/user-attachments/assets/2fada768-ab0f-461d-b807-ef1aec6efde0)      
 
-9. Настроить услуги телефонии Cisco CallManager Express на маршрутизаторе.
+5. Настроить услуги телефонии Cisco CallManager Express на маршрутизаторе.
     
     ![image](https://github.com/user-attachments/assets/5d544829-e262-4e3a-af24-08b12c5becbe)    
     
-11. Настроить IP-телефоны и соединить с коммутатором.
+6. Настроить IP-телефоны и соединить с коммутатором.
     
     ![image](https://github.com/user-attachments/assets/a3f6f006-365a-4e43-825f-b3d3377ee503)
     
@@ -96,14 +96,14 @@ Date of finished: 20.03.2025
     
     ![image](https://github.com/user-attachments/assets/391f501e-ff8a-4494-a75f-893204f3032d)     
     
-13. Подключить конечные узлы устройств.
+7. Подключить конечные узлы устройств.
     ![image](https://github.com/user-attachments/assets/ed04bc1d-e7ea-4b41-af30-51da64923d84)    
     
     ![image](https://github.com/user-attachments/assets/68fc35ec-540a-4786-920f-7f9a599bdb36)    
     
     ![image](https://github.com/user-attachments/assets/bdcd83d2-2782-4fb9-b4b4-5368706017f7)    
     
-15. Проверить звонки между телефонами и проверить остальные сервисы (перевод звонков, конференц-связь, перехват звонка).    
+8. Проверить звонки между телефонами и проверить остальные сервисы (перевод звонков, конференц-связь, перехват звонка).    
     ![image](https://github.com/user-attachments/assets/61b7702b-2cf9-4f89-8759-dee1b1887655)    
     
     ![image](https://github.com/user-attachments/assets/60cb5c2e-6fe0-47ea-a40a-d3e366a86790)    
